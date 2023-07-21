@@ -18,6 +18,10 @@ The Harpoon is an extended-draw modification of the Skewer by Charamile Designs.
 Harpoon is a big, LONG Skewer.
 [LOOOOOOOOOOOOOOOOOOOOOOOOOONG](https://youtu.be/pENpIU2WMMQ)
 
+## Sellers
+
+PinkDragonTuning: https://www.etsy.com/listing/1513409804/harpoon-hardware-kit
+
 ## Misc.
 
 **If you build any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
