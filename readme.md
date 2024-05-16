@@ -13,6 +13,11 @@ The Harpoon is an extended-draw modification of the Skewer by Charamile Designs.
 <img src="GHimages/HarpoonSkewer%20(3).jpg" width="500">
 <img src="GHimages/HarpoonSkewer%20(4).jpg" width="500">
 
+
+<a href="https://www.printables.com/model/875237-harpoon-extended-prime-skewer-nerf-blaster-homemad"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875237-harpoon-extended-prime-skewer-nerf-blaster-homemad
+
 ## Description
 
 Harpoon is a big, LONG Skewer.
