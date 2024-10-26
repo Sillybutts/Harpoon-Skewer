@@ -4,7 +4,9 @@ The Harpoon is an extended-draw modification of the Skewer by Charamile Designs.
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
 
-- Changelog: 7-20-2023: Release
+- Changelog:
+- - 7-20-2023: Release
+- - 10-26-2024: PDT updated sear to be more reliable under very heavy spring loads.
   
 </details>
 
